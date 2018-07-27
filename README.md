@@ -1,7 +1,7 @@
 # HelloTv
 Simple Hello World Android application that shows the minimum necessities to run on an Android TV.
 
-### Usage Guide
+## Usage Guide
 Instructions may vary by TV. Written for **Sony Bravia 4k 2015** on **Android 7.0**
 #### 1. Enable ADB Debugging via Developer Options on TV.
 1. Navigate to **Settings** then to **About**
@@ -26,3 +26,7 @@ List of devices attached
 <Your-TV-IP>:5555	device
 ````
 #### 4. Run project in Android Studio on TV
+
+## Results:
+![alt text](https://i.imgur.com/6PYbqCZ.png)
+![alt text](https://i.imgur.com/F9jopv9.png)

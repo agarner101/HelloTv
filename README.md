@@ -14,7 +14,7 @@ Instructions may vary by TV. Written for **Sony Bravia 4k 2015** on **Android 7.
 1. Navigate to **Settings** then to **Network**
 2. Select **Advanced Settings** then **Network Status**
 3. Note **IP Address** on this page
-#### 3. ADB Connect to TV
+#### 4. ADB Connect to TV
 On your development machine:
 1. Open Terminal
 2. ```$ adb connect <Your-TV-IP>:5555```
@@ -25,7 +25,7 @@ To check if successful use ```$ adb devices``` and you should see:
 List of devices attached
 <Your-TV-IP>:5555	device
 ````
-#### 4. Run project in Android Studio on TV
+#### 5. Run project in Android Studio on TV
 
 ## Results:
 ![alt text](https://i.imgur.com/6PYbqCZ.png)
